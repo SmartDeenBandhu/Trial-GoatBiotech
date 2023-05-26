@@ -1,0 +1,159 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.bgimg{
+    background-image: url(Asset/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 800px;
+}
+
+.blur{
+    background-image: linear-gradient(90deg, rgba(20, 7, 21, 0.8), transparent, rgba(20, 7, 21, 0.8));
+    height: 800px;
+}
+.bran{      
+    text-align: center;
+    padding-top: 250px;   
+    font-size: 160px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-background-clip: text;
+}
+.bgimg1{
+    background-image: url(Asset/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 800px;
+}
+.cimg1{
+    background-image: url(Asset/im1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 800px;
+}
+.cimg2{
+    background-image: url(Asset/im2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 800px;
+}
+.cimg3{
+    background-image: url(Asset/im3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 800px;
+}
+.cimg4{
+    background-image: url(Asset/im4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 800px;
+}
+.cimg5{
+    background-image: url(Asset/im5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 800px;
+}
+.cran1{      
+    text-align: center;
+    padding-top: 250px;   
+    font-size: 160px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-background-clip: text;
+    color: #140761;
+}
+.cran2{      
+    text-align: center;
+    padding-top: 250px;   
+    font-size: 160px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-background-clip: text;
+    
+}
+.cran3{      
+    text-align: center;
+    padding-top: 250px;   
+    font-size: 160px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-background-clip: text;
+    color: #ffff;
+}
+.cran4{      
+    text-align: center;
+    padding-top: 250px;   
+    font-size: 160px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-background-clip: text;
+    color: #140761;
+}
+.cran5{      
+    text-align: center;
+    padding-top: 250px;   
+    font-size: 160px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-background-clip: text;
+    color: black;
+}
+.inspire{
+    color: #ffff;
+    font-size: 90px;
+    
+}
+.inspara{
+    color: #ffff;
+    padding-left: 500px;
+}
+.foot{
+    background-color: rgb(75, 73, 73);
+    height: 500px;
+    
+}
+.copy{
+    text-align: center;
+    padding-top: 220px;
+}
+.foot{
+    text-align: center;
+}
+.videom{
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+.btn-style{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, yellow, orange);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 30px;
+    width: 120px;
+    margin: 20px;
+    box-shadow: 0px 4px 3px 0px black;
+  }
+  .btn-style:hover{
+    color: aliceblue;
+  }
+  .service-section .owl-carousel .owl-nav .owl-prev , .service-section .owl-carousel .owl-nav .owl-next{
+    font-size: 100px;
+  } 
+  .service-section .owl-carousel .owl-nav{
+    text-align: center;
+  }
+  .service-section h1{
+    color: black;
+    text-align: center;
+    margin: 10px;
+  }
+  .service-section .card .card1-img{
+    overflow: hidden;
+    height: 300px;
+    padding: 10px;
+  }
